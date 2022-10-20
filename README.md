@@ -43,7 +43,7 @@
 
 <a href="https://github.com/ankitmrmishra">
   
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmrmishra&theme=tokyonight&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmrmishra&theme=tokyonight&layout=compact" />
   
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitmrmishra&show_icons=true&theme=tokyonight" />
