@@ -42,8 +42,13 @@
 [![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ankitmrmishra/github-readme-activity-graph)
 
 <a href="https://github.com/ankitmrmishra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitmrmishra&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmrmishra&theme=buefy&layout=compact" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmrmishra&theme=tokyonight&layout=compact" />
+  
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitmrmishra&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmrmishra&theme=tokyonight" />
+
 </a>
 
 <br/>
