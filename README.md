@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Chandigarh Engineering College.
 - 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm.
-- ✍️ &nbsp; Pursuing Blog Writing as hobby.
+- ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -38,6 +38,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
 <br/>
+<img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
 
 [![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ankitmrmishra/github-readme-activity-graph)
 
@@ -56,8 +57,12 @@
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20mishra-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ankitmishra.0.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitmishra.0.0-blue?style=flat-square&logo=instagram"></a>
+<a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
+<a href="https://twitter.com/AnkitMishraexe"><img alt="Instagram" src="https://img.shields.io/badge/twitter-AnkitMishraexe-blue?style=flat-square&logo=twitter"></a>
 <a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
+
 
 ⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
 
