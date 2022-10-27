@@ -48,8 +48,23 @@
 	 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmrmishra&theme=tokyonight&layout=compact" />
 
 </a>
-
+---
 <br/>
+
+
+##  Recent articles on Hashnode
+
+ <!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+ 
+ 
+##  Recent Activities on GitHub
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+--- 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
