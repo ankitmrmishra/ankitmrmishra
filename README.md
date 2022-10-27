@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Chandigarh Engineering College.
 - 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm.
-- ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
+- ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe"></a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
