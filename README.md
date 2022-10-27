@@ -65,7 +65,7 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
---- 
+ 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
