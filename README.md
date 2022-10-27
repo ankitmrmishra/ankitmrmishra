@@ -59,12 +59,10 @@
 - [What really BLOCKCHAIN is!!🤔 and MYTHS around it💁.](https://ankitmishra.hashnode.dev/what-really-blockchain-is-and-myths-around-it)
 <!-- BLOG-POST-LIST:END -->
  
- 
-##  Recent Activities on GitHub
-
+ # Recent Activity :zap:
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
