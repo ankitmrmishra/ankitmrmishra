@@ -55,7 +55,8 @@
 ##  Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
-
+- [Responsiveness and Animation in Web Development.](https://ankitmishra.hashnode.dev/responsiveness-and-animation-in-web-development)
+- [What really BLOCKCHAIN is!!🤔 and MYTHS around it💁.](https://ankitmishra.hashnode.dev/what-really-blockchain-is-and-myths-around-it)
 <!-- BLOG-POST-LIST:END -->
  
  
