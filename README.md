@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ankit.</h2>
+<h2> Hey there! I'm Ankit.</h2> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitmrmishra&left_color=gray&right_color=blue)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -12,8 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-- ![Visitors](https://visitor-badge.glitch.me/badge?ankitmrmishra=ankitmrmishra&left_color=gray&right_color=blue)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
