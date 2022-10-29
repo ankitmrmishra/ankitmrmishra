@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ankit.</h2> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitmrmishra&left_color=gray&right_color=blue)
+<h2> Hey there! I'm Ankit.</h2> [Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitmrmishra&left_color=gray&right_color=blue)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
