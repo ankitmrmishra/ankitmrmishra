@@ -5,7 +5,7 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ankitmrmishra}/count.svg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
