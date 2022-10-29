@@ -79,7 +79,7 @@
 <a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
 <a href="https://twitter.com/AnkitMishraexe"><img alt="Instagram" src="https://img.shields.io/badge/twitter-AnkitMishraexe-blue?style=flat-square&logo=twitter"></a>
 <a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitmrmishra&left_color=gray&right_color=blue)
 </p>
 
 
