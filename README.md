@@ -73,7 +73,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+	<a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/github-ankitmrmishra-blue&logo=Github"></a>
 <a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20mishra-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ankitmishra.0.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitmishra.0.0-blue?style=flat-square&logo=instagram"></a>
 <a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
