@@ -12,6 +12,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+- ![Visitors](https://visitor-badge.glitch.me/badge?ankitmrmishra=ankitmrmishra&left_color=gray&right_color=blue)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -81,7 +82,7 @@
 <a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-![Visitors](https://visitor-badge.glitch.me/badge?ankitmrmishra=ankitmrmishra&left_color=gray&right_color=blue)
+
 
 ⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
 
