@@ -66,11 +66,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/16) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
-2. 🗣 Commented on [#20](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/20) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
-3. 💪 Opened PR [#14](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation/pull/14) in [GDSC-CEC/HacktoberFest-2022-Technical-Documentation](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation)
-4. 🗣 Commented on [#20](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/20) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
-5. 🗣 Commented on [#16](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/16) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
+1. 🗣 Commented on [#12](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation/issues/12) in [GDSC-CEC/HacktoberFest-2022-Technical-Documentation](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation)
+2. 🗣 Commented on [#16](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/16) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
+3. 🗣 Commented on [#20](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/20) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
+4. 💪 Opened PR [#14](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation/pull/14) in [GDSC-CEC/HacktoberFest-2022-Technical-Documentation](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation)
+5. 🗣 Commented on [#20](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/20) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
 <!--END_SECTION:activity-->
 
  
