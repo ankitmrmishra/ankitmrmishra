@@ -68,11 +68,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
-2. 🗣 Commented on [#1](https://github.com/ankitmrmishra/ankitmishra/issues/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
-3. 💪 Opened PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
-4. 🗣 Commented on [#12](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation/issues/12) in [GDSC-CEC/HacktoberFest-2022-Technical-Documentation](https://github.com/GDSC-CEC/HacktoberFest-2022-Technical-Documentation)
-5. 🗣 Commented on [#16](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing/issues/16) in [GDSC-CEC/HacktoberFest-2022-Blog-Writing](https://github.com/GDSC-CEC/HacktoberFest-2022-Blog-Writing)
+1. ❗️ Closed issue [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
+2. 🗣 Commented on [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
+3. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
+4. 🗣 Commented on [#1](https://github.com/ankitmrmishra/ankitmishra/issues/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
+5. 💪 Opened PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
 <!--END_SECTION:activity-->
 
  
