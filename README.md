@@ -60,6 +60,7 @@
 ##  Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [How Internet was started?](https://ankitmishra.hashnode.dev/how-internet-was-started)
 - [Introduction To JavaScript](https://ankitmishra.hashnode.dev/introduction-to-javascript)
 - [Introduction to OPEN SOURCE.](https://ankitmishra.hashnode.dev/introduction-to-open-source)
 - [Responsiveness and Animation in Web Development.](https://ankitmishra.hashnode.dev/responsiveness-and-animation-in-web-development)
