@@ -69,11 +69,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/MyFirstThreeJS/pull/1) in [ankitmrmishra/MyFirstThreeJS](https://github.com/ankitmrmishra/MyFirstThreeJS)
-2. 💪 Opened PR [#1](https://github.com/ankitmrmishra/MyFirstThreeJS/pull/1) in [ankitmrmishra/MyFirstThreeJS](https://github.com/ankitmrmishra/MyFirstThreeJS)
-3. ❗️ Closed issue [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
-4. 🗣 Commented on [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
-5. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/ankitmishra/pull/1) in [ankitmrmishra/ankitmishra](https://github.com/ankitmrmishra/ankitmishra)
+1. 💪 Opened PR [#2](https://github.com/ankitmrmishra/MyFirstThreeJS/pull/2) in [ankitmrmishra/MyFirstThreeJS](https://github.com/ankitmrmishra/MyFirstThreeJS)
+2. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/MyFirstThreeJS/pull/1) in [ankitmrmishra/MyFirstThreeJS](https://github.com/ankitmrmishra/MyFirstThreeJS)
+3. 💪 Opened PR [#1](https://github.com/ankitmrmishra/MyFirstThreeJS/pull/1) in [ankitmrmishra/MyFirstThreeJS](https://github.com/ankitmrmishra/MyFirstThreeJS)
+4. ❗️ Closed issue [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
+5. 🗣 Commented on [#2](https://github.com/ankitmrmishra/drumkit/issues/2) in [ankitmrmishra/drumkit](https://github.com/ankitmrmishra/drumkit)
 <!--END_SECTION:activity-->
 
  
