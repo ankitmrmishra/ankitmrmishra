@@ -2,16 +2,11 @@
 
 <h2> Hey there! I'm Ankit.</h2>
 
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{ankitmrmishra}/count.svg)
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Chandigarh Engineering College.
-- 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm.
+- 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm and AI-ML
 - ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -81,15 +76,16 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/github-ankitmrmishra-blue&logo=Github"></a>
+	<a href="https://www.github.com/in/ankitmrmishra/"><img alt="github" src="https://img.shields.io/badge/github-ankitmrmishra-blue&logo=Github"></a>
 <a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20mishra-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ankitmishra.0.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitmishra.0.0-blue?style=flat-square&logo=instagram"></a>
+
 <a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
 <a href="https://twitter.com/AnkitMishraexe"><img alt="Instagram" src="https://img.shields.io/badge/twitter-AnkitMishraexe-blue?style=flat-square&logo=twitter"></a>
 <a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{ankitmrmishra}/count.svg)
 
 ⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
 
