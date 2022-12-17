@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Currently Learning:- ``Web Development and DevOps``.
 - 🎓 &nbsp; Studying Electronics and Communication Engineering at Chandigarh Engineering College.
 - 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm and AI-ML
 - ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a>
