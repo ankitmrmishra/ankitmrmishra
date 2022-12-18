@@ -5,8 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Currently Learning:- ``Web Development and DevOps``.
-- 🎓 &nbsp; Studying Electronics and Communication Engineering at Chandigarh Engineering College.
-- 🌱 &nbsp; Learning more about Full stack web development, Data Structure and Algorithm and AI-ML
+- 🎓 &nbsp; I am an engineering sophomore interested in Web Technologies , OpenSource and Problem Solving.
 - ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -27,7 +26,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <!--   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
@@ -88,6 +87,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/{ankitmrmishra}/count.svg)
 
 ⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
+```java
+ Thank You for taking the time to view my GitHub Profile 😄
+ ```
 
 <!---
 ankitmrmishra/ankitmrmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
