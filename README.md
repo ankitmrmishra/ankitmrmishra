@@ -66,19 +66,17 @@
 
  
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-<p align="center">
-	<a href="https://www.github.com/in/ankitmrmishra/"><img alt="github" src="https://img.shields.io/badge/github-ankitmrmishra-blue&logo=Github"></a>
-<a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20mishra-blue?style=flat-square&logo=linkedin"></a>
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitmishra1106/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitmishra.0.0/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkitMishraexe)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitmrmishra1118@gmail.com)
+  
+</div>
 
-<a href="https://hashnode.com/@ankitmishraexe"><img alt="Instagram" src="https://img.shields.io/badge/Hashnode-ankitmishraexe-blue?style=flat-square&logo=hashnode"></a>
-<a href="https://twitter.com/AnkitMishraexe"><img alt="Instagram" src="https://img.shields.io/badge/twitter-AnkitMishraexe-blue?style=flat-square&logo=twitter"></a>
-<a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-</p>
-
-![Visitor Count](https://profile-counter.glitch.me/{ankitmrmishra}/count.svg)
 
 ⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
 ```java
