@@ -47,11 +47,11 @@
 ##  Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [OSI model in Computer Networking](https://ankitmishra.hashnode.dev/osi-model-in-computer-networking)
 - [Port Numbers in Computer Networking](https://ankitmishra.hashnode.dev/port-numbers-in-computer-networking)
 - [How data is transferred and what is IP address](https://ankitmishra.hashnode.dev/how-data-is-transferred-and-what-is-ip-address)
 - [What are Protocols in Computer Networking?](https://ankitmishra.hashnode.dev/what-are-protocols-in-computer-networking)
 - [What is Computer Networking?](https://ankitmishra.hashnode.dev/what-is-computer-networking)
-- [How Internet was started?](https://ankitmishra.hashnode.dev/how-internet-was-started)
 <!-- BLOG-POST-LIST:END -->
  
  # Recent Activity :zap:
