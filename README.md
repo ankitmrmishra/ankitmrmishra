@@ -31,7 +31,7 @@
 <br />
 
 #
-<img src="https://img.shields.io/github/followers/ankitmrmishra?style=social"></img>
+
 
 [![Ankit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ankitmrmishra/github-readme-activity-graph)
 
@@ -77,8 +77,8 @@
 
 
 
-⭐️ From [ANKIT MISHRA](https://github.com/ankitmrmishra)
-```java
+
+```Python
  Thank You for taking the time to view my GitHub Profile 😄
  ```
 
