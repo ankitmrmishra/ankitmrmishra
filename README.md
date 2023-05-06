@@ -47,11 +47,11 @@
 ##  Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [PROPS in ReactJS](https://ankitmishra.hashnode.dev/props-in-reactjs)
 - [All about JSX in ReactJS](https://ankitmishra.hashnode.dev/all-about-jsx-in-reactjs)
 - [ReactJS For Absolute Beginners.](https://ankitmishra.hashnode.dev/reactjs-for-absolute-beginners)
 - [OSI model in Computer Networking](https://ankitmishra.hashnode.dev/osi-model-in-computer-networking)
 - [Port Numbers in Computer Networking](https://ankitmishra.hashnode.dev/port-numbers-in-computer-networking)
-- [How data is transferred and what is IP address](https://ankitmishra.hashnode.dev/how-data-is-transferred-and-what-is-ip-address)
 <!-- BLOG-POST-LIST:END -->
  
  # Recent Activity :zap:
