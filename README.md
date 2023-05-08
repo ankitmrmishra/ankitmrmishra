@@ -49,7 +49,7 @@
  <!-- BLOG-POST-LIST:START -->
 - [PROPS in ReactJS](https://ankitmishra.hashnode.dev/props-in-reactjs)
 - [All about JSX in ReactJS](https://ankitmishra.hashnode.dev/all-about-jsx-in-reactjs)
-- [ReactJS For Absolute Beginners.](https://ankitmishra.hashnode.dev/reactjs-for-absolute-beginners)
+- [Components-The Building Blocks of REACT JS](https://ankitmishra.hashnode.dev/components-the-building-blocks-of-react-js)
 - [OSI model in Computer Networking](https://ankitmishra.hashnode.dev/osi-model-in-computer-networking)
 - [Port Numbers in Computer Networking](https://ankitmishra.hashnode.dev/port-numbers-in-computer-networking)
 <!-- BLOG-POST-LIST:END -->
