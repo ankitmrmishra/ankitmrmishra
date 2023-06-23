@@ -33,7 +33,7 @@
 #
 
 
-[![Ankit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ankitmrmishra/github-readme-activity-graph)
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)(https://github.com/ankitmrmishra/github-readme-activity-graph)
 
 <a href="https://github.com/ankitmrmishra">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitmrmishra&show_icons=true&theme=tokyonight" />
