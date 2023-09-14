@@ -56,11 +56,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Roushanshah/phone-keypad-problem/pull/1) in [Roushanshah/phone-keypad-problem](https://github.com/Roushanshah/phone-keypad-problem)
-2. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/anan/pull/1) in [ankitmrmishra/anan](https://github.com/ankitmrmishra/anan)
-3. 💪 Opened PR [#1](https://github.com/ankitmrmishra/anan/pull/1) in [ankitmrmishra/anan](https://github.com/ankitmrmishra/anan)
-4. 💪 Opened PR [#1](https://github.com/Roushanshah/Roushanshah/pull/1) in [Roushanshah/Roushanshah](https://github.com/Roushanshah/Roushanshah)
-5. 💪 Opened PR [#3](https://github.com/28Anmolsinha/28Anmolsinha/pull/3) in [28Anmolsinha/28Anmolsinha](https://github.com/28Anmolsinha/28Anmolsinha)
+1. ❌ Closed PR [#17](https://github.com/ankitmrmishra/thistechamigos/pull/17) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+2. 🗣 Commented on [#17](https://github.com/ankitmrmishra/thistechamigos/pull/17#issuecomment-1718941289) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+3. 🎉 Merged PR [#18](https://github.com/ankitmrmishra/thistechamigos/pull/18) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+4. 🎉 Merged PR [#19](https://github.com/ankitmrmishra/thistechamigos/pull/19) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+5. 🎉 Merged PR [#20](https://github.com/ankitmrmishra/thistechamigos/pull/20) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
 <!--END_SECTION:activity-->
 
  
