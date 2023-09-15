@@ -56,11 +56,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/ankitmrmishra/ThisnewAnkit/pull/37) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
-2. 🎉 Merged PR [#33](https://github.com/ankitmrmishra/ThisnewAnkit/pull/33) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
-3. 🎉 Merged PR [#34](https://github.com/ankitmrmishra/ThisnewAnkit/pull/34) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
-4. 🎉 Merged PR [#35](https://github.com/ankitmrmishra/ThisnewAnkit/pull/35) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
-5. 🎉 Merged PR [#36](https://github.com/ankitmrmishra/ThisnewAnkit/pull/36) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+1. ❌ Closed PR [#16](https://github.com/ankitmrmishra/ThisnewAnkit/pull/16) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+2. 🗣 Commented on [#16](https://github.com/ankitmrmishra/ThisnewAnkit/pull/16#issuecomment-1721641788) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+3. 🎉 Merged PR [#17](https://github.com/ankitmrmishra/ThisnewAnkit/pull/17) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+4. ❌ Closed PR [#18](https://github.com/ankitmrmishra/ThisnewAnkit/pull/18) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
+5. 🗣 Commented on [#18](https://github.com/ankitmrmishra/ThisnewAnkit/pull/18#issuecomment-1721640796) in [ankitmrmishra/ThisnewAnkit](https://github.com/ankitmrmishra/ThisnewAnkit)
 <!--END_SECTION:activity-->
 
  
