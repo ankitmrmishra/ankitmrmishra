@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Currently Learning:- ``Web Development and DevOps``.
-- 🎓 &nbsp; I am an engineering sophomore interested in Web Technologies , OpenSource and Problem Solving.
+- 🎓 &nbsp; Dedicated to mastering Web Technologies, fostering Open Source collaboration, and tackling challenges head-on. Engineering student with a passion for innovation, on a mission to create a brighter tech-driven future. 
 - ✍️ &nbsp; Pursuing Blog Writing as hobby. Read my Blogs at <a href="https://hashnode.com/@ankitmishraexe">Ankit Mishra's Blog</a>
 
 ### 🧰 Languages and Tools
@@ -33,7 +33,7 @@
 #
 
 
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)(https://github.com/ankitmrmishra/github-readme-activity-graph)
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmrmishra&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/ankitmrmishra">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitmrmishra&show_icons=true&theme=tokyonight" />
@@ -69,7 +69,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitmishra1106/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitmishra.0.0/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitmishra.exe/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkitMishraexe)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitmrmishra1118@gmail.com)
   
