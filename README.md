@@ -56,11 +56,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ankitmrmishra/thistechamigos/pull/2) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
-2. 🗣 Commented on [#2](https://github.com/ankitmrmishra/thistechamigos/pull/2#issuecomment-1722472938) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
-3. 🎉 Merged PR [#3](https://github.com/ankitmrmishra/thistechamigos/pull/3) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
-4. 🎉 Merged PR [#4](https://github.com/ankitmrmishra/thistechamigos/pull/4) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
-5. 🎉 Merged PR [#5](https://github.com/ankitmrmishra/thistechamigos/pull/5) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+1. 🗣 Commented on [#1](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/1#issuecomment-1746136374) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+2. ❌ Closed PR [#1](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/1) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+3. ❌ Closed PR [#2](https://github.com/ankitmrmishra/thistechamigos/pull/2) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+4. 🗣 Commented on [#2](https://github.com/ankitmrmishra/thistechamigos/pull/2#issuecomment-1722472938) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
+5. 🎉 Merged PR [#3](https://github.com/ankitmrmishra/thistechamigos/pull/3) in [ankitmrmishra/thistechamigos](https://github.com/ankitmrmishra/thistechamigos)
 <!--END_SECTION:activity-->
 
  
