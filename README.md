@@ -45,11 +45,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/6) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-2. ❗ Opened issue [#5](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/5) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-3. ❗ Opened issue [#4](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/4) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-4. ❗ Opened issue [#3](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/3) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-5. ❗ Opened issue [#2](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/2) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+1. ❗ Opened issue [#1](https://github.com/HACKTOBERFEST-2023-CGC-CEC/blogging-hactoberfest-2023/issues/1) in [HACKTOBERFEST-2023-CGC-CEC/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/blogging-hactoberfest-2023)
+2. ❗ Opened issue [#6](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/6) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+3. ❗ Opened issue [#5](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/5) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+4. ❗ Opened issue [#4](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/4) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+5. ❗ Opened issue [#3](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/3) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
 <!--END_SECTION:activity-->
 
  
