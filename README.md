@@ -45,11 +45,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/5) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-2. ❌ Closed PR [#11](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/11) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-3. 🗣 Commented on [#11](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/11#issuecomment-1752026595) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-4. 🔒 Closed issue [#9](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/9) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
-5. ❌ Closed PR [#8](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/8) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+1. ❌ Closed PR [#12](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/12) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+2. 🗣 Commented on [#12](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/12#issuecomment-1752034907) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+3. 🔒 Closed issue [#5](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/issues/5) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+4. ❌ Closed PR [#11](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/11) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
+5. 🗣 Commented on [#11](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023/pull/11#issuecomment-1752026595) in [HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CGC-CEC/web-dev-hactoberfest-2023)
 <!--END_SECTION:activity-->
 
  
