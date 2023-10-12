@@ -45,11 +45,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
-2. 🗣 Commented on [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16#issuecomment-1758123436) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
-3. 🗣 Commented on [#17](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/17#issuecomment-1756159025) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
-4. 🗣 Commented on [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16#issuecomment-1755931285) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
-5. 🗣 Commented on [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16#issuecomment-1754800317) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
+1. 🗣 Commented on [#18](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/18#issuecomment-1759446088) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
+2. ❌ Closed PR [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
+3. 🗣 Commented on [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16#issuecomment-1758123436) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
+4. 🗣 Commented on [#17](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/17#issuecomment-1756159025) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
+5. 🗣 Commented on [#16](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/16#issuecomment-1755931285) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
 <!--END_SECTION:activity-->
 
  
