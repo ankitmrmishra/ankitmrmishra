@@ -45,11 +45,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/Android-dev-Hactoberfest-2023/pull/1) in [HACKTOBERFEST-2023-CHANDIGARH/Android-dev-Hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/Android-dev-Hactoberfest-2023)
-2. 🎉 Merged PR [#17](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/17) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
-3. 🗣 Commented on [#9](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/9#issuecomment-1764961657) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
-4. 🎉 Merged PR [#19](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/19) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
-5. 🔒 Closed issue [#1](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/issues/1) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+1. ❌ Closed PR [#6](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/6) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+2. 🎉 Merged PR [#9](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/9) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+3. 🎉 Merged PR [#13](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/13) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+4. 🗣 Commented on [#13](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/13#issuecomment-1768800942) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+5. 🗣 Commented on [#12](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/issues/12#issuecomment-1768785899) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
 <!--END_SECTION:activity-->
 
  
