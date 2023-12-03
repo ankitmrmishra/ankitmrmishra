@@ -36,11 +36,11 @@
 ##  Recent articles on Hashnode
 
  <!-- BLOG-POST-LIST:START -->
+- [Stack in JAVA](https://ankitmishra.hashnode.dev/stack-in-java)
 - [A Comprehensive Guide: All About ReactJS Hooks for Optimized Development](https://ankitmishra.hashnode.dev/a-comprehensive-guide-all-about-reactjs-hooks-for-optimized-development)
 - [PROPS in ReactJS](https://ankitmishra.hashnode.dev/props-in-reactjs)
 - [All about JSX in ReactJS](https://ankitmishra.hashnode.dev/all-about-jsx-in-reactjs)
 - [Components-The Building Blocks of REACT JS](https://ankitmishra.hashnode.dev/components-the-building-blocks-of-react-js)
-- [OSI model in Computer Networking](https://ankitmishra.hashnode.dev/osi-model-in-computer-networking)
 <!-- BLOG-POST-LIST:END -->
  
  # Recent Activity :zap:
