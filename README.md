@@ -45,7 +45,7 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/14) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+1. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/hackthisFall/pull/1) in [ankitmrmishra/hackthisFall](https://github.com/ankitmrmishra/hackthisFall)
 2. 🎉 Merged PR [#22](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023/pull/22) in [HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/web-dev-hactoberfest-2023)
 3. ❌ Closed PR [#2](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/2) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
 4. 🎉 Merged PR [#3](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/3) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
