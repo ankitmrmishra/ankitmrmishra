@@ -45,9 +45,9 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/clade/pull/1) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
-2. 🗣 Commented on [#1](https://github.com/ankitmrmishra/clade/pull/1#issuecomment-2272004118) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
-3. ❌ Closed PR [#2](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/2) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+1. 💪 Opened PR [#107](https://github.com/code100x/tiplink/pull/107) in [code100x/tiplink](https://github.com/code100x/tiplink)
+2. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/clade/pull/1) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
+3. 🗣 Commented on [#1](https://github.com/ankitmrmishra/clade/pull/1#issuecomment-2272004118) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
 4. 🎉 Merged PR [#3](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/3) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
 5. 🗣 Commented on [#3](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/3#issuecomment-1768831282) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
 <!--END_SECTION:activity-->
