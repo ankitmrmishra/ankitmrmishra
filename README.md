@@ -45,11 +45,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2285351691) in [code100x/tiplink](https://github.com/code100x/tiplink)
-2. 💪 Opened PR [#107](https://github.com/code100x/tiplink/pull/107) in [code100x/tiplink](https://github.com/code100x/tiplink)
-3. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/clade/pull/1) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
-4. 🗣 Commented on [#1](https://github.com/ankitmrmishra/clade/pull/1#issuecomment-2272004118) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
-5. 🗣 Commented on [#3](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023/pull/3#issuecomment-1768831282) in [HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023](https://github.com/HACKTOBERFEST-2023-CHANDIGARH/blogging-hactoberfest-2023)
+1. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2286418454) in [code100x/tiplink](https://github.com/code100x/tiplink)
+2. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2285351691) in [code100x/tiplink](https://github.com/code100x/tiplink)
+3. 💪 Opened PR [#107](https://github.com/code100x/tiplink/pull/107) in [code100x/tiplink](https://github.com/code100x/tiplink)
+4. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/clade/pull/1) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
+5. 🗣 Commented on [#1](https://github.com/ankitmrmishra/clade/pull/1#issuecomment-2272004118) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
 <!--END_SECTION:activity-->
 
  
