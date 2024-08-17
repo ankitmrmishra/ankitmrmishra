@@ -45,11 +45,11 @@
  
  # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2292867271) in [code100x/tiplink](https://github.com/code100x/tiplink)
-2. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2286418454) in [code100x/tiplink](https://github.com/code100x/tiplink)
-3. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2285351691) in [code100x/tiplink](https://github.com/code100x/tiplink)
-4. 💪 Opened PR [#107](https://github.com/code100x/tiplink/pull/107) in [code100x/tiplink](https://github.com/code100x/tiplink)
-5. 🎉 Merged PR [#1](https://github.com/ankitmrmishra/clade/pull/1) in [ankitmrmishra/clade](https://github.com/ankitmrmishra/clade)
+1. ❌ Closed PR [#107](https://github.com/code100x/tiplink/pull/107) in [code100x/tiplink](https://github.com/code100x/tiplink)
+2. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2292867271) in [code100x/tiplink](https://github.com/code100x/tiplink)
+3. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2286418454) in [code100x/tiplink](https://github.com/code100x/tiplink)
+4. 🗣 Commented on [#107](https://github.com/code100x/tiplink/pull/107#issuecomment-2285351691) in [code100x/tiplink](https://github.com/code100x/tiplink)
+5. 💪 Opened PR [#107](https://github.com/code100x/tiplink/pull/107) in [code100x/tiplink](https://github.com/code100x/tiplink)
 <!--END_SECTION:activity-->
 
  
