@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ankit.</h2>
+<h6> Hey there! I'm Ankit.</h6>
 
 <!---
 ankitmrmishra/ankitmrmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
